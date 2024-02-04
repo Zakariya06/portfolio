@@ -19,7 +19,7 @@ body {
 #header {
     width: 100%;
     min-height: 100vh;
-    background: url('/images/bgfinal.webp');
+    background: url('images/bgfinal.webp');
     background-size: cover;
     background-position: center;
 }
