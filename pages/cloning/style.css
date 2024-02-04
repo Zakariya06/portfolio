@@ -199,6 +199,7 @@ nav p i{
     .spoty-col-2 {
         flex-basis: 100%;
         margin-top: 50px;
+        padding: 0;
     }
     .spoty-col-2  img{
        width: 100%;
